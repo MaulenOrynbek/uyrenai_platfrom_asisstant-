@@ -1,0 +1,8 @@
+{
+  "dataset_hash": "e373a1635c51c15dc2855078bd20df8f55af47572ee4ac83700f4ee8c924b994",
+  "embed_model": "text-embedding-3-small",
+  "num_vectors": 188,
+  "dim": 1536,
+  "created_at": 1756134083,
+  "source": "c:\\Users\\Timur U\\OneDrive\\Рабочий стол\\Parser\\CHUNKS_DB.csv"
+}
